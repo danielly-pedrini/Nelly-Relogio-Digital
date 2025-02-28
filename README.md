@@ -1,5 +1,3 @@
-
-
 <h1> Nelly - Relógio Digital </h1>
 É um projeto simples de um relógio digital que oferece funcionalidades interativas, como alternar entre os formatos de 12 horas e 24 horas, além de pausar e
 retomar a contagem do tempo. 
